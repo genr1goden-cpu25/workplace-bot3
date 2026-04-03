@@ -1,0 +1,41 @@
+{
+  "users": {
+    "1291472367": {
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
+      "events": [
+        {
+          "time": "2026-04-03 04:52:38",
+          "event": "started",
+          "info": "work_place_group"
+        },
+        {
+          "time": "2026-04-03 05:44:30",
+          "event": "started",
+          "info": "work_place_group"
+        }
+      ],
+      "user_info": "work_place_group"
+    }
+  },
+  "total": {
+    "started": 2,
+    "sent_city": 0,
+    "received_faq": 0,
+    "clicked_yes": 0,
+    "clicked_operator": 0,
+    "got_hr_contact": 0,
+    "refused": 0
+  },
+  "daily": {
+    "2026-04-03": {
+      "started": 2,
+      "sent_city": 0,
+      "received_faq": 0,
+      "clicked_yes": 0,
+      "clicked_operator": 0,
+      "got_hr_contact": 0,
+      "refused": 0
+    }
+  }
+}
