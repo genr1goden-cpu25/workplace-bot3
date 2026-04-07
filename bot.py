@@ -19,7 +19,7 @@ from config import BOT_TOKEN
 logging.basicConfig(level=logging.INFO)
 
 # --- НАСТРОЙКА ПРОКСИ ---
-PROXY_URL = "socks5://rhjocpnxkw-res-country-NL-state-2749879-city-2759794-hold-session-session-69ce5ac50a723:VhtmedPLxaWEkZMI@212.8.249.134:443"
+socks5://rhjocpnxkw-res-country-NL-state-2749879-city-2759794-hold-session-session-69ce5ac50a723:VhtmedPLxaWEkZMI@212.8.249.134:443
 
 session = AiohttpSession(proxy=PROXY_URL)
 bot = Bot(token=BOT_TOKEN, session=session)
